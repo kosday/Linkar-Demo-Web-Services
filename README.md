@@ -3,9 +3,12 @@
 You can find there a Visual Studio Solution with 4 projects:
 
 1.- WCF Service
+      More information on how to create this type of projects here.	
+      https://docs.microsoft.com/en-us/visualstudio/data-tools/walkthrough-creating-a-simple-wcf-service-in-windows-forms?view=vs-2015
 
 2.- Web API Service
-
+      More information on how to create this type of projects here.	.	
+      https://docs.microsoft.com/en-us/visualstudio/data-tools/walkthrough-creating-a-simple-wcf-service-in-windows-forms?view=vs-2015
 3.- Class library. Auxiliary project used by projects 1 and 2
 
 4.- Console application to see how to consume the services
