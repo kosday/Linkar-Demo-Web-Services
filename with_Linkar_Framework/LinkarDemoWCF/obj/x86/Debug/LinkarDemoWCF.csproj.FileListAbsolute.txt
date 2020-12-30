@@ -1,0 +1,16 @@
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\obj\x86\Debug\LinkarDemoWCF.csproj.CoreCompileInputs.cache
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\bin\LinkarDemoWCF.dll.config
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\bin\LinkarDemoWCF.dll
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\bin\LinkarDemoWCF.pdb
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\bin\LinkarServices.dll
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\bin\Linkar.dll
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\bin\Linkar.LkData.dll
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\bin\Linkar.Functions.Direct.MV.dll
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\bin\Linkar.Strings.dll
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\bin\Linkar.Functions.dll
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\bin\Linkar.Functions.Direct.dll
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\bin\LinkarServices.pdb
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\obj\x86\Debug\LinkarDemoWCF.csprojAssemblyReference.cache
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\obj\x86\Debug\LinkarDemoWCF.csproj.CopyComplete
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\obj\x86\Debug\LinkarDemoWCF.dll
+D:\DATOS\Workspace\svn_linkar2_master\LF-DEMOS\LINKARDEMOSERVICES\LinkarDemoWCF\obj\x86\Debug\LinkarDemoWCF.pdb

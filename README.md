@@ -1,5 +1,7 @@
 # Linkar Demo Web Services
 
+We advise you to use the Linkar Framework for .NET, CORE, JAVA and C.
+
 You can find there a Visual Studio Solution with 4 projects:
 
 1.- WCF Service
